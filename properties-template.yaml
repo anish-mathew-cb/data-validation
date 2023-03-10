@@ -1,0 +1,39 @@
+source:
+  buckets:
+  - name: cl1-b1
+    scopes:
+    - collections:
+      - documents: [cl1-b1-sc1-c1-d1, cl1-b1-sc1-c1-d2, cl1-b1-sc1-c1-d3, cl1-b1-sc1-c1-d4]
+        name: cl1-b1-sc1-c1
+      - documents: [cl1-b1-sc1-c2-d1, cl1-b1-sc1-c2-d2, cl1-b1-sc1-c2-d3, cl1-b1-sc1-c2-d4]
+        name: cl1-b1-sc1-c2
+      name: cl1-b1-sc1
+    - collections:
+      - documents: [cl1-b1-sc2-c1-d1, cl1-b1-sc2-c1-d2, cl1-b1-sc2-c1-d3, cl1-b1-sc2-c1-d4]
+        name: cl1-b1-sc2-c1
+      - documents: [cl1-b1-sc2-c2-d1, cl1-b1-sc2-c2-d2, cl1-b1-sc2-c2-d3, cl1-b1-sc2-c2-d4]
+        name: cl1-b1-sc2-c2
+      name: cl1-b1-sc2
+  - name: cl1-b2
+    scopes:
+    - collections:
+      - documents: [cl1-b2-sc1-c1-d1, cl1-b2-sc1-c1-d2, cl1-b2-sc1-c1-d3, cl1-b2-sc1-c1-d4]
+        name: cl1-b2-sc1-c1
+      - documents: [cl1-b2-sc1-c2-d1]
+        name: cl1-b2-sc1-c2
+      name: cl1-b2-sc1
+    - collections:
+      - documents: [cl1-b2-sc2-c1-d1, cl1-b2-sc2-c1-d2]
+        name: cl1-b2-sc2-c1
+      - documents: [cl1-b2-sc2-c2-d1, cl1-b2-sc2-c2-d2, cl1-b2-sc2-c2-d3]
+        name: cl1-b2-sc2-c2
+      name: cl1-b2-sc2
+  nodes: [n1,n2,n3]
+  password: p1
+  secured: false
+  username: u1
+target:
+  nodes: [n1,n2,n3,n4]
+  password: p2
+  secured: false
+  username: u2
