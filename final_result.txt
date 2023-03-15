@@ -1,0 +1,163 @@
+[
+  {
+    "bucket": "travel-sample",
+    "scope": "",
+    "collection": "",
+    "doc_id": "hotel_10026",
+    "src_doc": {
+      "address": "57-59 Balmoral Road, ME7 4NT",
+      "alias": null,
+      "checkin": null,
+      "checkout": null,
+      "city": "Gillingham",
+      "country": "United Kingdom",
+      "description": "A recently modernised basic but cheap guesthouse across the road from Gillingham station. No meals, but many rooms have a fridge and hob for cooking.",
+      "directions": null,
+      "email": null,
+      "fax": null,
+      "free_breakfast": true,
+      "free_internet": true,
+      "free_parking": false,
+      "geo": {
+        "accuracy": "RANGE_INTERPOLATED",
+        "lat": 51.38624,
+        "lon": 0.55078
+      },
+      "id": 10026,
+      "name": "The Balmoral Guesthouse",
+      "pets_ok": true,
+      "phone": "+44 1634 853 68",
+      "price": "Single room \u00a332 per night",
+      "public_likes": [],
+      "reviews": [],
+      "state": null,
+      "title": "Gillingham (Kent)",
+      "tollfree": null,
+      "type": "hotel",
+      "url": "http://www.thebalmoral-guesthouse.co.uk",
+      "vacancy": false
+    },
+    "tgt_doc": null
+  },
+  {
+    "bucket": "travel-sample",
+    "scope": "",
+    "collection": "",
+    "doc_id": "hotel_10142",
+    "src_doc": {
+      "address": "Glencoe, PA39 4HX",
+      "alias": null,
+      "checkin": null,
+      "checkout": null,
+      "city": "Highland",
+      "country": "United Kingdom",
+      "description": "62 Family Bunk Rooms.",
+      "directions": null,
+      "email": "glencoe@syha.org.uk",
+      "fax": null,
+      "free_breakfast": true,
+      "free_internet": true,
+      "free_parking": false,
+      "geo": {
+        "accuracy": "ROOFTOP",
+        "lat": 56.6721,
+        "lon": -5.07389
+      },
+      "id": 10142,
+      "name": "Glencoe Youth Hostel",
+      "pets_ok": false,
+      "phone": "+44 1855 811219",
+      "price": "\u00a317.00",
+      "public_likes": [],
+      "reviews": [
+        {
+          "author": "Kayli Cronin",
+          "content": "This has got to be the worse experience I have ever had at a hotel. Our reservation was placed two months in advance for a non-smoking room with two beds from July 2-7, 2010. We are staying five nights at $190 a night and this is what we got, a smoking room with one bed, and was only told at the front desk that it was going to be a smoking room, nothing about the one bed, when she asked us how many beds we needed, oh they provided a roll-a-way, only thing is I had to move the chair into the hallway to fit the bed. The t.v. was older than me and the speaker was shot. the bathroom was so small you have to step into the tub to close the door, no fridge in the room, doors are cheap and horrible. only sheets on the bed no blankets/quilts, plus on top of that, i had to pay $14.95 a night for internet. I will never recommend this hotel! how can you take a reservation and state that it will be held till 10am the following morning, yet not provide what was requested in the reservation? What if someone in my party was allergic to smoke, asthmatic, or worse... we wouldn't have gotten a room? completely unacceptable no wonder I will continue to stay at the comfort suites... free internet, modern amenities(flat screens) oh and $85 a night. unsatisfied doesn't even come close to how I feel. the only good thing out of this whole stay was the hot cookie when I got here and mine wasn't even hot. You can take that cookie and... well i'm sure you can figure out the rest. Thanx for nothing!",
+          "date": "2014-04-12 00:12:11 +0300",
+          "ratings": {
+            "Cleanliness": 3.0,
+            "Location": 3.0,
+            "Overall": 1.0,
+            "Rooms": 1.0,
+            "Service": 1.0,
+            "Sleep Quality": 1.0,
+            "Value": 1.0
+          }
+        },
+        {
+          "author": "Addison Ratke",
+          "content": "OK - I booked this place about 8 weeks prior to travel, when the rooms were still $116 for a Saturday night on Doubletree/Hilton site. As the travel date drew close, I would reprice and the rate climbed to over $200. $116 was a bargain, but the place isn't worth $200. I had room 1022 - very small, some mildew on in the closet in the corner, and right down the hall from the housekeeping closets (they banged their doors day and night). The bed was comfortable and the staff was very courteous. I didn't know this when I booked the hotel, but I was thrilled to see it was at the same intersection as Harrah's Casino so I lost $50. The hotel is also right at a trolley car stop on Canal Street. $116 - yep, I'ld stay there again in a heartbeat. $200 - no can do. Book early and tolerate the inconveniences in exchange for a bargain price.",
+          "date": "2014-10-26 20:19:43 +0300",
+          "ratings": {
+            "Cleanliness": 3.0,
+            "Location": 5.0,
+            "Overall": 3.0,
+            "Rooms": 3.0,
+            "Service": 4.0,
+            "Sleep Quality": 5.0,
+            "Value": 3.0
+          }
+        },
+        {
+          "author": "Jamaal Maggio",
+          "content": "I was impressed with my room and the great service I received at the front desk. I found the staff helpful and very pleasant. The location was great with easy walking distances to the French Quarter, other points of interest and great restaurants in the immediate area. Room service was on time and my breakfast arrived hot and ready to enjoy. I would recommend this hotel for the start of a great stay in Big Easy.",
+          "date": "2013-09-24 11:08:35 +0300",
+          "ratings": {
+            "Cleanliness": 4.0,
+            "Location": 5.0,
+            "Overall": 5.0,
+            "Rooms": 4.0,
+            "Service": 5.0,
+            "Value": 5.0
+          }
+        },
+        {
+          "author": "Ilene Wunsch II",
+          "content": "The hotel is located conveniently on Canal Street at the edge of the French Quarter near the river. When we arrived, the rooms were ready to go and checking was painless, the cookies were awesome! The louge downstairs was a good place to catch a drink before heading out each night. We were within walking distance to everything in the French Quarter and catching a cab in front of the hotel was easy. The trolley has a stop in front of the hotel, Harrah's is next door, the aquarium , the mall and a move theater are all across the street. The hotel restaurant was good, not the best considering it's New Orleans, but good for hotel food. I didn't have a car this trip, but you have to pay for parking in most places in the quarter. The pool is small, but nice to hang out at mid afternoon and there is a small gym for a quick work out. I've staryed in many places in the French Quarter over the years and this is one of the better experiences I have had. I was pleasantly suprizes at how much I liked the location.",
+          "date": "2012-01-15 08:23:42 +0300",
+          "ratings": {
+            "Cleanliness": 5.0,
+            "Location": 4.0,
+            "Overall": 4.0,
+            "Rooms": 3.0,
+            "Service": 5.0,
+            "Value": 4.0
+          }
+        },
+        {
+          "author": "Ms. Aiyana Parker",
+          "content": "The Doubltree is located near so many attractions, we hardly ever needed a cab the whole time we were there. Clean rooms that were well maintained were a treat to come home to after a long day. I never experienced one issue or problem the entire time I was there, from a warm a welcoming check-in (with a great cookie!) to an efficent check-out. I would certainly reccomend the hotel to anyone I knew that was traveling to the Big Easy.",
+          "date": "2012-06-05 09:48:26 +0300",
+          "ratings": {
+            "Cleanliness": 5.0,
+            "Location": 5.0,
+            "Overall": 5.0,
+            "Rooms": 5.0,
+            "Service": 5.0,
+            "Value": 5.0
+          }
+        },
+        {
+          "author": "Lowell Raynor",
+          "content": "We stayed at the Doubletree Hotel New Orleans for the first time on February 14, 2009. The good: check in was quick, the rooms were comfortable and very clean. I forgot some amenities and staff were very quick to respond with bringing up what I needed. All staff were very polite. One bad: the walls are paper thin, you can literally hear every word in the rooms next to you and in the hallway. I would stay here again for the ideal location, but if you need a good nights rest, reconsider due to noise.",
+          "date": "2014-08-22 21:40:05 +0300",
+          "ratings": {
+            "Cleanliness": 5.0,
+            "Location": 5.0,
+            "Overall": 4.0,
+            "Rooms": 3.0,
+            "Service": 5.0,
+            "Value": 5.0
+          }
+        }
+      ],
+      "state": null,
+      "title": "Glencoe",
+      "tollfree": null,
+      "type": "hotel",
+      "url": "http://www.syha.org.uk/hostels-in-scotland/highlands/glencoe.aspx",
+      "vacancy": false
+    },
+    "tgt_doc": null
+  }
+]
